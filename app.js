@@ -1,1 +1,1 @@
-console.long('Ejecutando el sistema')
+console.long('Ejecutando el sistema');
